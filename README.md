@@ -6,11 +6,8 @@ data of time serial
 
 From China Weather records
 
-![mse](./wuhan-aqi/mse.jpg)
-
 ![format](./wuhan-aqi/format.jpg)
 
-![compare](./wuhan-aqi/compare.jpg)
 
 ## Air passengers
 
